@@ -57,7 +57,7 @@ I'm part way through this 4 month course which builds a strong foundation in dee
 --
   
 [Coursera deep learning specialization](https://www.coursera.org/specializations/deep-learning#courses)
-I completed the first three courses in the specialization, and integrated many of the learnings into my MLP from scratch project above.  
+I completed the first two courses in the specialization, and integrated many of the learnings into my MLP from scratch project above.  
 
 [Coursera mathematics for machine learning: linear algebra](https://www.coursera.org/learn/linear-algebra-machine-learning?specialization=mathematics-machine-learning)
 I also complemented this with extensive self study of Strang's linear algebra textbook.  
