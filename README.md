@@ -49,7 +49,7 @@ This was a 2 month in depth python course focused on building python knowdedge, 
 
 [Udacity deep learning nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
 
-I'm part way through this 4 month course which builds a strong foundation in deep learning and its applications to computer vision, NLP, and generative networks, as well as deploying a model in the cloud.  
+I'm most of the way through this 4 month course which builds a strong foundation in deep learning and its applications to computer vision, NLP, and generative networks, as well as deploying a model in the cloud.  
 
 - [Landmark image classifier](https://github.com/mkcomer237/udacity_landmark_classifier)
 - [Skin cancer detector](https://github.com/mkcomer237/udacity_dermatologist_ai)
