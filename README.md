@@ -70,7 +70,7 @@ I also complemented this with extensive self study of Strang's linear algebra te
 
 I've been using kaggle to build out experience with more difficult ML problems. See my kaggle profile [here](https://www.kaggle.com/max237).  
 
-[Pawpularity kaggle competition](https://www.kaggle.com/max237/convnext-transfer-learning-in-pytorch-17-45) (predicting pet popularity from images) and [alternative solution](https://www.kaggle.com/max237/resnet50-transfer-learning-in-pytorch/notebook)
+[Pawpularity kaggle competition](https://www.kaggle.com/max237/convnext-transfer-learning-in-pytorch-17-45) (predicting pet popularity from images) and [alternative solution](https://www.kaggle.com/max237/resnet50-transfer-learning-in-pytorch/notebook)  
 [Great Barrier Reef Object Detection](https://www.kaggle.com/max237/getting-started-with-yolox-training-and-inference)
 
 ---
